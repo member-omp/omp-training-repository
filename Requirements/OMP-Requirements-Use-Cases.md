@@ -173,7 +173,7 @@ Part of this text can be easily extracted from the WID
 DELETE THIS COMMENT
 ```
 <figure>
-<img scr="images/example-figure.svg" alt="Example Figure">
+<img scr="images/omp_governance.svg" alt="Example Figure">
 <figcaption>Example Figure</figcaption>
 </figure>
 
