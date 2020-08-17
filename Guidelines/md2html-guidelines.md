@@ -5,6 +5,8 @@ To create a heading, add **two** to **six** `#` symbols before your heading text
 	<figcaption>Headings</figcaption>
 </figure>
 
+add a new line.
+
 ## Heading Level 1
 ### Heading Level 2
 #### Heading Level 3
