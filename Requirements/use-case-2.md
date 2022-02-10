@@ -2,6 +2,8 @@
 
 new line.
 
+add a second
+
 > This clause provides high-level use cases focused on the users and deployment scenarios
 > point of view, targeting release’s requirements. Use cases are additional to the main
 > text in the RD and facilitate clarification of the requirements: actually, a use case 
